@@ -1,0 +1,26 @@
+{
+  "name": "array-forge",
+  "version": "0.1.0",
+  "description": "forge and manipulate Arrays in javascript",
+  "main": "src/array.forge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type" : "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineeeinc/Array.Forge.git"
+  },
+  "keywords": [
+    "array-js",
+    "array-forge",
+    "array",
+    "forge"
+  ],
+  "author": "Imagineee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagineeeinc/Array.Forge/issues"
+  },
+  "homepage": "https://github.com/imagineeeinc/Array.Forge#readme"
+}
